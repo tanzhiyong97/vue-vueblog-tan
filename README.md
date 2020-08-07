@@ -1,4 +1,4 @@
-# vue-vueblog
+# vue-vueblog: vue+springboot的前后端分离博客系统，前端部分。
 
 ## Project setup
 ```
